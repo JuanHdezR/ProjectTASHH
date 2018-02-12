@@ -1,3 +1,7 @@
 .row {
 color:red;
 }
+Input[name="btnboton1"] {
+color:blue;
+width: 500px;
+}
